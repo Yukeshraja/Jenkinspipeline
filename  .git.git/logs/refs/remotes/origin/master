@@ -1,0 +1,1 @@
+0000000000000000000000000000000000000000 ae827e4e1195222b3896c15cb8aabfa2bf21e74e Jenkins Automation Server <jenkins@test.altimetrik.com> 1521526151 +0530	fetch --tags --progress https://github.com/hakdogan/jenkins-pipeline.git +refs/heads/*:refs/remotes/origin/*: storing head
